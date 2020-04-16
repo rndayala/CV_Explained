@@ -1,0 +1,20 @@
+Instructions - https://gurus.pyimagesearch.com/pyimagesearch-virtual-machine/
+
+Pre-configured VM Link - https://gurus.pyimagesearch.com/setting-up-your-python-opencv-development-environment/
+
+User name : guru
+
+Password : pyimagesearch
+
+Activate CV environment
+------------------------
+
+	workon gurus_cv4   --> gurus_cv4  (Python 3.6 and OpenCV 4.0.0)
+
+	workon gurus   --> gurus  (Python 3.6 and OpenCV 3.4.4)
+
+
+Ref -
+
+https://cvexplained.wordpress.com/tag/setup-environment/
+
