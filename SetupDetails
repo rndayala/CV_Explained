@@ -14,7 +14,24 @@ Activate CV environment
 	workon gurus   --> gurus  (Python 3.6 and OpenCV 3.4.4)
 
 
-Ref -
+Ref - https://cvexplained.wordpress.com/tag/setup-environment/
 
-https://cvexplained.wordpress.com/tag/setup-environment/
+=====================================================================================
+
+Deep Learning Computer Vision
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ref - https://rndayala.wordpress.com/2020/02/14/configuring-development-environment/
+
+Pre-configured VM Link - https://www.pyimagesearch.com/2017/09/22/deep-learning-python-ubuntu-virtual-machine/
+
+	Username: pyimagesearch
+	Password: deeplearning
+
+Activate DL4CV environment :
+
+	workon dl4cv
+
+	pip freeze -- to see list of libraries and their versions
+
 

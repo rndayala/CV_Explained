@@ -1,0 +1,16 @@
+CV Explained
+-------------
+
+Links - http://web.cecs.pdx.edu/~fliu/courses/cs410/
+
+Gurus Course :
+
+	Module 0: PyImageSearch Gurus Orientation
+
+		1	0.1: Getting yourself oriented
+					In this, discussed on Setup Development Environment(using Pre-configured VM),
+					Detecting Faces (using HaarCascade classifier), course content format.
+
+	Module 1: Computer Vision Basics
+
+		2	1.1: Loading, displaying, and saving images

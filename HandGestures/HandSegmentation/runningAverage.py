@@ -25,8 +25,8 @@ while(1):
     # that updates the running average 
     # cv2.accumulateWeighted(srcImage, outputImage, alphaValue)
     # higher alpha value - it updates faster...
-    cv2.accumulateWeighted(img, averageValue1, 0.5)
-    cv2.accumulateWeighted(img, averageValue2, 0.05)
+    cv2.accumulateWeighted(img, averageValue1, 0.1)
+    cv2.accumulateWeighted(img, averageValue2, 0.01)
       
     # converting the matrix elements to absolute values  
     # and converting the result back to 8-bit.  
